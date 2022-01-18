@@ -1,0 +1,16 @@
+[submodule "service_node"]
+	url = https://github.com/MikeDmytrenko/service_node.git
+[submodule "hokuyo_node"]
+	url = https://github.com/ros-drivers/hokuyo_node.git
+[submodule "human_SLAM"]
+	url = https://github.com/CarmineD8/human_SLAM.git
+[submodule "pedometer"]
+	url = https://github.com/MikeDmytrenko/pedometer.git
+[submodule "recognition/src/Recognition_from_Ontology"]
+	url = https://github.com/MikeDmytrenko/Recognition_from_Ontology.git
+[submodule "rviz_camera_stream"]
+	url = https://github.com/MikeDmytrenko/rviz_camera_stream.git
+[submodule "trajectory_analysis"]
+	url = https://github.com/MikeDmytrenko/trajectory_analysis.git
+[submodule "read_thingy91"]
+	url = https://github.com/MikeDmytrenko/read_thingy91.git
