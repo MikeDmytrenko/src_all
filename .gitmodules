@@ -1,6 +1,8 @@
 [submodule "service_node"]
+	path = service_node
 	url = https://github.com/MikeDmytrenko/service_node.git
 [submodule "hokuyo_node"]
+	path = hokuyo_node
 	url = https://github.com/ros-drivers/hokuyo_node.git
 [submodule "human_SLAM"]
 	url = https://github.com/CarmineD8/human_SLAM.git
