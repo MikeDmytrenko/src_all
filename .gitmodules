@@ -5,14 +5,26 @@
 	path = hokuyo_node
 	url = https://github.com/ros-drivers/hokuyo_node.git
 [submodule "human_SLAM"]
+	path = human_SLAM
 	url = https://github.com/CarmineD8/human_SLAM.git
 [submodule "pedometer"]
+	path = pedometer
 	url = https://github.com/MikeDmytrenko/pedometer.git
 [submodule "recognition/src/Recognition_from_Ontology"]
+	path = recognition/src/Recognition_from_Ontology
 	url = https://github.com/MikeDmytrenko/Recognition_from_Ontology.git
 [submodule "rviz_camera_stream"]
+	path = rviz_camera_stream
 	url = https://github.com/MikeDmytrenko/rviz_camera_stream.git
 [submodule "trajectory_analysis"]
+	path = trajectory_analysis
 	url = https://github.com/MikeDmytrenko/trajectory_analysis.git
 [submodule "read_thingy91"]
+	path = read_thingy91
 	url = https://github.com/MikeDmytrenko/read_thingy91.git
+[submodule "porcupine"]
+	path = recognition/porcupine
+	url = https://github.com/Picovoice/porcupine.git
+[submodule "driver_common"]
+	path = driver_common
+	url = https://github.com/ros-drivers/driver_common.git
